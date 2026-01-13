@@ -226,7 +226,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 You can contact me with the name "Katherine" 
-- Email: `katherine@kaytea.dev`
+- Email: `contact@kaytea.dev`
 - Repo: `https://github.com/KatieUmbra/compxclib`
 ## Acknowledgements
 
